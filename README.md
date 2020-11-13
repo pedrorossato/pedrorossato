@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phvrossato@gmail.com)](mailto:phvrossato@gmail.com)
 
 - 🔭 Atualmente eu trabalho na Black Sul Software.
-- 🌱 Atualemten estou aprendendo .NET core, React Typescript e PostgreSQL.
+- 🌱 Atualmente estou aprendendo .NET core, React Typescript e PostgreSQL.
 - 🤔 Estou procurando ajuda em como otimizar meu tempo e estudos na área.
-- 💬 Me pergunte sobre como é meu estágio.
+- 💬 Me pergunte sobre como é meu estágio ou sobre desenvolvimento em geral.
 - 📫 Me contate pelo email phvrossato@gmail.com
 -->
