@@ -1,10 +1,27 @@
-### Hello there! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-vestena-rossato-257032167)](https://www.linkedin.com/in/phvrossato)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+55+981233139&text=Ola!)](https://api.whatsapp.com/send?phone=55+55+981233139&text=Ola!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phvrossato@gmail.com)](mailto:phvrossato@gmail.com)
+<div>
+  <a href="https://github.com/arthuramaraim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuramaraim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuramaraim&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-🚀 Currently working on personal projects and finishing my graduation.\
-💾 I worked at Compact Jr. and Black Sul Software.\
-📚 Studying Computer Science at Federal University of Santa Maria.\
-👨‍💻 I am currently working with ASP.NET MVC, .NET core, React, Typescript and PostgreSQL.\
-📫 Contact me by email: phvrossato@gmail.com
+
+</div>
+  
+  ##
+ 
+<div> 
+
+  
+  <a href="https://instagram.com/arthuramaraim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:akamaraim@inf.ufsm.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+
+  </div>
