@@ -1,5 +1,4 @@
-# Olá! Sou o Pedro e este é meu Github.
-### Aqui encontram-se apenas projetos pessoais e alguns projetos que fiz durante minha graduação.
+# Olá! Meu nome é Pedro e este é meu Github.
 <div>
   <a href="https://github.com/pedrorossato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorossato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
